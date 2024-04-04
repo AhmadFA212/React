@@ -1,0 +1,9 @@
+background: black;
+color: white;
+font-family: monospace;
+font-size: 12px;
+
+.child {
+  height: 100px;
+  width: 100px;
+}
